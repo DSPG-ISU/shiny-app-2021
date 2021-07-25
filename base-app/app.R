@@ -4,6 +4,8 @@ library(shinyjs)
 library(leaflet)
 library(sf)
 library(tidyverse)
+library(USAboundaries)
+library(USAboundariesData)
 
 # use the theme
 source("theme.R")
