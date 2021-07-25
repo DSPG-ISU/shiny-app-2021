@@ -6,7 +6,7 @@ library(sf)
 library(tidyverse)
 
 # use the theme
-source("theme.r")
+source("theme.R")
 
 jscode <- "var referer = document.referrer;
            var n = referer.includes('economic');
